@@ -596,3 +596,9 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# 其它
+DOMAIN-SUFFIX,xiuxitong.com
+DOMAIN-SUFFIX,gying.org
+DOMAIN-KEYWORD,ddys
+DOMAIN-KEYWORD,xlys
