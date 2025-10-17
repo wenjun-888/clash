@@ -10,7 +10,6 @@
 ||jomodns.cn^
 ||p2p.huya.com^
 ||stun.hitv.com
-||stun1.douyucdn.cn
 ||mcdn.bilivideo.cn^
 ||pcdn.xmcdn.com^
 /.*pcdn.*biliapi\.net/
